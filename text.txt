@@ -1,0 +1,11 @@
+ Volume in drive D has no label.
+ Volume Serial Number is F272-059C
+
+ Directory of D:\JavaProject
+
+12-Jan-18  06:35 PM    <DIR>          .
+12-Jan-18  06:35 PM    <DIR>          ..
+12-Jan-18  04:19 PM    <DIR>          sample
+12-Jan-18  06:35 PM                 0 text.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  119,504,855,040 bytes free
